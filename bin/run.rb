@@ -4,4 +4,4 @@ Sinatra
 Octokit
 Pry
 AwesomePrint
-gem 'Hashie', "~ "
+gem 'Hashie'
