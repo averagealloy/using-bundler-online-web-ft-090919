@@ -1,6 +1,6 @@
 require_relative '../config/environment'
 require Hashie
 require Sinatra
-Octokit
+require Octokit
 Pry
 AwesomePrint
